@@ -1,7 +1,4 @@
-    WORDLIST (BRUTE FORCE IN WORDPRESS)
-     
-    CONTACT @Facebook @https://www.facebook.com/NurIzzahAfiqahII
-     
+    apikey ="__";
     account
     acct_login
     adm
